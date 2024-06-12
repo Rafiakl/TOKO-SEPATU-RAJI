@@ -1,6 +1,6 @@
 # Anggota Kelompok
 - M.Rizqi Aji Syahputra
-- Muhammad Rafi Akmaludin
+- Muhamad Rafi AkmalLudin
 
 # Fitur
 - Form Login
